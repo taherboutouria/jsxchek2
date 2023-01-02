@@ -5,7 +5,7 @@ import Profile from './Component/Profile';
 function App() {
   return (
     <div className="App">
-      <Profile/>
+      <Profile  name='Taher Boutouria' bio='GomycodeStudent js'/>
     </div>
   );
 }
